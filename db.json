@@ -1,0 +1,16 @@
+{
+  "bookmarks": [
+    {
+      "title": "Deneme 1",
+      "url": "www.erciyes.edu.tr",
+      "description": "Açıklama 1",
+      "id": 1
+    },
+    {
+      "title": "Deneme MEtni 2",
+      "url": "www.erciyes.edu.tr",
+      "description": "Açıklama 2",
+      "id": 2
+    }
+  ]
+}
